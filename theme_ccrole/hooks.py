@@ -11,11 +11,11 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/theme_ccrole/css/theme_ccrole.css"
+app_include_css = "/assets/theme_ccrole/css/theme_ccrole.css"
 # app_include_js = "/assets/theme_ccrole/js/theme_ccrole.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/theme_ccrole/css/theme_ccrole.css"
+web_include_css = "/assets/theme_ccrole/css/theme_ccrole.css"
 # web_include_js = "/assets/theme_ccrole/js/theme_ccrole.js"
 
 # include custom scss in every website theme (without file extension ".scss")
