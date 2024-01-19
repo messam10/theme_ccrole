@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include theme_ccrole *.css
+recursive-include theme_ccrole *.csv
+recursive-include theme_ccrole *.html
+recursive-include theme_ccrole *.ico
+recursive-include theme_ccrole *.js
+recursive-include theme_ccrole *.json
+recursive-include theme_ccrole *.md
+recursive-include theme_ccrole *.png
+recursive-include theme_ccrole *.py
+recursive-include theme_ccrole *.svg
+recursive-include theme_ccrole *.txt
+recursive-exclude theme_ccrole *.pyc
